@@ -20,8 +20,6 @@
     "@enspirit/dem-core-rescript",
     "bs-yaml",
     "@enspirit/rescript-mustache",
-    "@enspirit/rescript-markdown-it",
-    "@enspirit/rescript-prettier",
     "@enspirit/rescript-execa",
     "@enspirit/rescript-chokidar",
     "@enspirit/rescript-node-sass"
